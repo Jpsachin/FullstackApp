@@ -1,0 +1,12 @@
+# GitHub Copilot code rules and best practices
+rules:
+  - Use clear, descriptive variable and function names
+  - Prefer TypeScript types and interfaces for all components and state
+  - Organize code by feature (e.g., folders for hooks, stores, components)
+  - Use React functional components and hooks
+  - Keep files small and focused
+  - Add JSDoc/type comments for public APIs
+  - Prefer Zustand for state management
+  - Use ESLint and Prettier for consistent formatting
+  - Write tests for critical logic
+  - Document custom hooks and stores
